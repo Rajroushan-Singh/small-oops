@@ -87,7 +87,7 @@ public class Main {
         // b1.displaybankdetails();
         Bank b1=new Bank(1234, "raj", 10000);
         b1.displaybankdetails();
-        b1.getbalance();
+        // b1.getbalance();
 
 
 
